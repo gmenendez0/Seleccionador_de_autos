@@ -1,5 +1,11 @@
 # Seleccionador de autos
 
+Para ensamblar, utilizar el siguiente comando en WINDOWS: nasm seleccionador_de_autos.asm -f win64
+Para compilar, utilizar el siguiente comando en WINDOWS: gcc seleccionador_de_autos.obj
+Para correr el ejecutable, utilizar el siguiente comando en WINDOWS: a.exe
+
+
+
  El programa lee un archivo en formato BINARIO que contiene informacion sobre autos llamado listado.dat
  donde cada REGISTRO del archivo representa informacion de un auto con los campos: 
    marca:							10 caracteres
