@@ -1,8 +1,8 @@
 # Seleccionador de autos
 
-Para ensamblar, utilizar el siguiente comando en WINDOWS: nasm seleccionador_de_autos.asm -f win64
-Para compilar, utilizar el siguiente comando en WINDOWS: gcc seleccionador_de_autos.obj
-Para correr el ejecutable, utilizar el siguiente comando en WINDOWS: a.exe
+Para ensamblar, utilizar el siguiente comando en WINDOWS: nasm seleccionador_de_autos.asm -f win64  
+Para compilar, utilizar el siguiente comando en WINDOWS: gcc seleccionador_de_autos.obj  
+Para correr el ejecutable, utilizar el siguiente comando en WINDOWS: a.exe  
 
 
 
